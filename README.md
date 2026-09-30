@@ -25,7 +25,7 @@ SimPy로 입고·피킹·패킹·허브 공정을 모델링하고, 인력 배치
 
 ## Selected work
 
-- ANN/RNN forecasting: 시계열 전력 데이터 예측과 모델 비교
+- [ANN/RNN forecasting](https://github.com/eLlyyyyi/power-demand-forecasting-ann-rnn): 시계열 전력 데이터 예측과 모델 비교 실험
 - Smart-farm service: 데이터 기반 농장 관리 사용자 경험 설계 및 프런트엔드 프로토타입 구현
 - [DroneStock team project](https://github.com/Dronestock-SW/ROS2): 드론 기반 재고관리 흐름과 수동 비행 QR 스캔 companion 구현
 
