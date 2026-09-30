@@ -11,6 +11,10 @@ AI 모델 개발에서 데이터 검증, 서비스 프로토타입 구현까지 
 
 ## Featured projects
 
+### [Sign-us Recognition](https://github.com/eLlyyyyi/sign-us-recognition)
+
+MediaPipe 랜드마크 추출부터 Conv1D·LSTM 학습, 사람 단위 교차 검증, 오류 분석, 실시간 추론까지 연결한 수어 인식 프로젝트입니다. 공개본에서는 원본 데이터·모델 가중치·비밀정보를 제외했습니다.
+
 ### [Field-i Smart Farm Demo](https://github.com/eLlyyyyi/field-i-smart-farm-demo)
 
 농장 탐색, 작물 상태 모니터링, 가상 로드뷰를 구현한 React 기반 스마트팜 서비스 프로토타입입니다. 공개 버전에서는 실제 인물과 개인정보를 모두 익명화했습니다.
@@ -21,9 +25,9 @@ SimPy로 입고·피킹·패킹·허브 공정을 모델링하고, 인력 배치
 
 ## Selected work
 
-- Sign-language recognition: 영상 기반 수어 인식 모델 학습·평가·실시간 추론 실험
 - ANN/RNN forecasting: 시계열 전력 데이터 예측과 모델 비교
 - Smart-farm service: 데이터 기반 농장 관리 사용자 경험 설계 및 프런트엔드 프로토타입 구현
+- [DroneStock team project](https://github.com/Dronestock-SW/ROS2): 드론 기반 재고관리 흐름과 수동 비행 QR 스캔 companion 구현
 
 ## Awards
 
