@@ -1,58 +1,33 @@
-# Hi, I'm Hyewon 👋
+# 강혜원 · Kang Hyewon
 
-AI 모델 개발에서 데이터 검증, 서비스 프로토타입 구현까지 연결하는 AI Engineer를 목표로 하고 있습니다.
+**AI Engineer**
 
-## Interests
+실시간 수어 인식 모델, 문서 OCR, 생성형 AI를 적용한 영업 서비스를 다뤘습니다.
 
-- Computer Vision & real-time AI inference
-- Time-series forecasting and model evaluation
-- Data analysis and operations simulation
-- AI-powered product prototyping
+[Notion Portfolio](https://app.notion.com/p/04e33e035758821b9abf01819ca46764)
 
-## Featured projects
+## 대표 프로젝트
 
-### [Sign-us Recognition](https://github.com/eLlyyyyi/sign-us-recognition)
+### [Sign-us · 실시간 수어 인식](https://github.com/eLlyyyyi/sign-us-recognition)
+MediaPipe 랜드마크 전처리부터 모델 학습, 사용자 단위 검증, 실시간 추론까지 구현했습니다. 이 저장소는 캡스톤 코드를 담고 있습니다.
 
-MediaPipe 랜드마크 추출부터 Conv1D·LSTM 학습, 사람 단위 교차 검증, 오류 분석, 실시간 추론까지 연결한 수어 인식 프로젝트입니다. 공개본에서는 원본 데이터·모델 가중치·비밀정보를 제외했습니다.
+### [Field-Eye · 스마트팜 웹앱](https://github.com/eLlyyyyi/field-i-smart-farm-demo)
+작황 모니터링과 농장 로드뷰를 확인하는 React 웹앱을 8인 팀에서 전담해 구현했습니다.
 
-### [Field-i Smart Farm Demo](https://github.com/eLlyyyyi/field-i-smart-farm-demo)
+### [DroneStock · 드론 재고조사](https://github.com/Dronestock-SW/ROS2)
+Jetson 카메라의 영상 입력 문제를 해결하고 Tailscale과 SSH로 원격 개발 환경을 구축했습니다. 링크는 팀 저장소입니다.
 
-농장 탐색, 작물 상태 모니터링, 가상 로드뷰를 구현한 React 기반 스마트팜 서비스 프로토타입입니다. 공개 버전에서는 실제 인물과 개인정보를 모두 익명화했습니다.
+## 데이터 분석과 시뮬레이션
 
-### [Fulfillment Operations Simulation](https://github.com/eLlyyyyi/fulfillment-operations-simulation)
+- [물류 공정 시뮬레이션](https://github.com/eLlyyyyi/fulfillment-operations-simulation) · SimPy로 입고부터 출고까지 모델링하고 인력 배치에 따른 병목을 비교했습니다.
+- [ANN/RNN 전력 예측](https://github.com/eLlyyyyi/power-demand-forecasting-ann-rnn) · 기상 변수로 전력을 예측하고 두 모델의 성능을 비교했습니다.
 
-SimPy로 입고·피킹·패킹·허브 공정을 모델링하고, 인력 배치에 따른 병목과 처리시간 변화를 분석한 프로젝트입니다.
+## 주로 사용한 기술
 
-## Selected work
+**AI 및 데이터** · Python, TensorFlow, MediaPipe, OpenCV, Pandas, scikit-learn  
+**웹 및 개발 환경** · React, JavaScript, Vite, Git
 
-- [ANN/RNN forecasting](https://github.com/eLlyyyyi/power-demand-forecasting-ann-rnn): 시계열 전력 데이터 예측과 모델 비교 실험
-- Smart-farm service: 데이터 기반 농장 관리 사용자 경험 설계 및 프런트엔드 프로토타입 구현
-- [DroneStock team project](https://github.com/Dronestock-SW/ROS2): 드론 기반 재고관리 흐름과 수동 비행 QR 스캔 companion 구현
+## 수상
 
-## Awards
-
-- 2026 AI Pilot Top Gun Challenge — Encouragement Award (장려상)
-
-> AI Pilot 프로젝트는 팀 기여 범위와 외부 자산의 공개 조건을 고려해 코드는 공개하지 않고 수상 이력만 소개합니다.
-
-## 🛠️ Tech Stack
-
-**AI & Data**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
-
-**Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+- 범정부 공공데이터·AI 활용 창업경진대회 최우수상 및 특별상 · Daejeon IP Foundry
+- 2026 AI Pilot Top Gun Challenge 장려상
