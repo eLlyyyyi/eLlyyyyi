@@ -4,8 +4,6 @@
 
 실시간 수어 인식 모델, 문서 OCR, 생성형 AI를 적용한 영업 서비스를 다뤘습니다.
 
-[Notion Portfolio](https://app.notion.com/p/04e33e035758821b9abf01819ca46764)
-
 ## 대표 프로젝트
 
 ### [Sign-us · 실시간 수어 인식](https://github.com/eLlyyyyi/sign-us-recognition)
